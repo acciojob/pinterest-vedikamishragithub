@@ -20,10 +20,8 @@ img{
 button{
 border:2px red solid;	
 background-color:red;	
+color:white;
 
 	
 }
-a{
-	color:white;
-	text-decoration:none;
-}
+
